@@ -16,7 +16,8 @@ LEAGUE_MATCH_RESULTS_FILE = "match_results.csv"
 # Squad
 SQUAD = [
     "AJ", "Himza", "Bir", "Bhavs", "Speirs", "Jakes",
-    "Viv", "Minal", "Deelan", "Rush B", "Rush N", "Joe"
+    "Viv", "Minal", "Deelan", "Rush B", "Rush N", "Joe",
+    "Filler"
 ]
 
 # --------------------------------------------------------------------
